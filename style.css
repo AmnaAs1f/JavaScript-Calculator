@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+.row input{
+    padding: 10px 0;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.row{
+    margin-left: 20px;
+    margin-top: 5px;
+
+}
+.row button{
+    padding: 23px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.clear button{
+    padding: 20px;
+    width: 100px;
+}
